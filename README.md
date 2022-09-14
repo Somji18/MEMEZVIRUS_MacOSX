@@ -1,2 +1,11 @@
-# NIBZVIRUS_MacOSX
-This is a Virus for Mac OSX run this at your own risk and make sure to keep the folder on the Desktop ;)
+# THE WORLDS MOST DUMMEST VIRUS :trollface:
+###### its actually crap I made it in highschool 
+
+**IMPORTANT**
+> this tool is for eduactaional and experimental purposes only. I am not responable for any misuse of this project
+
+## How does it work & what does it do?
+
+```
+This tool simply encrypts the users files while spamming a crap ton of images
+```
