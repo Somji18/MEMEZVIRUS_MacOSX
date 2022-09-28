@@ -1,4 +1,4 @@
-# THE WORLDS MOST DUMMEST VIRUS :trollface:
+# THE WORLDS MOST DUMMEST VIRUS
 ###### its actually crap I made it in highschool 
 
 **IMPORTANT**
@@ -7,5 +7,6 @@
 ## How does it work & what does it do?
 
 ```
-This tool simply encrypts the users files while spamming a crap ton of images
+This tool simply encrypts the users files while 
+spamming a crap ton of images
 ```
